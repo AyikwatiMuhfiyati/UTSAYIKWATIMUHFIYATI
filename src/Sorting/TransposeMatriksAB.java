@@ -11,10 +11,10 @@ public class TransposeMatriksAB {
         System.out.print("Masukkan jumlah baris matriks A: ");
         m = scan.nextInt();
         System.out.print("Masukkan jumlah baris matriks B: ");
-        n = scan.nextInt();
-        System.out.print("Masukkan jumlah kolom matriks A: ");
-        m = scan.nextInt
-        System.out.print("Masukkan jumlah kolom matriks B: ");
+        m = scan.nextInt();
+        System.out.print("Masukkan jumlah kolom matriks : ");
+        n = scan.nextInt
+        System.out.print("Masukkan jumlah kolom matriks: ");
         n = scan.nextInt      
         System.out.println("Masukkan elemen matriks: ");
         for(i = 0; i < m; i++){
